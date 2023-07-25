@@ -15,7 +15,7 @@ FTDI
 
 > # CIRCUIT DIAGRAM !!
 
-![image](https://github.com/Tranquil837/UART-communication-with-RASPI-and-PC/assets/123855482/e86aba9d-a628-49b2-aa33-fb7776f01558)
+![image](https://github.com/Tranquil837/UART-communication-with-RASPI-and-PC/assets/123855482/634410d2-296a-44b0-b14d-87aa4473a39a)
 
 > # OUTPUT
 
